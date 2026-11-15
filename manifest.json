@@ -1,0 +1,18 @@
+{
+  "name": "مُرتوي - تطبيق السكري الذكي",
+  "short_name": "مُرتوي",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e3a8a",
+  "dir": "rtl",
+  "lang": "ar",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2966/2966327.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
